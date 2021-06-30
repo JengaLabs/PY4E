@@ -1,0 +1,33 @@
+When the command line opens, the program starts in the "home" directory. 
+Use the "cd" command to find out location of the current directory. "cd filename" to go up a level. 
+Cd stands for change directory. 
+Use the dir command to see what files are in the current directory. 
+type python to enable python in cmd. 
+ctrl Z  to return to normal commands or quit()
+Type the file name to open.	
+
+Some high level terms for computer parts.
+THe CPU is the the part of the computer that is built to be obsessed with "what is next?" if your computer
+is rated at 3.0 Gigahertz, that menas the cpu will ask "what next" three billion times
+second. 
+The main memory stores infomration that the CPU needs in a hury. The main memory is nearly as fast as the CPU.
+But the information stored in the main memory vanishes when the computer is turned off.
+Secondary memory stores information, but it is much slower than the main memory. However it can store information even when no power is
+being given to the computer. Like USB and flash dvds.
+IO deveises are the screen, keyboard, mouse, microphone, speaker ect.
+Network connections to retrieve info over a network. Networks can be though of as slwo place to store and 
+retreive data that migh not always be there. 
+
+Once quit() is called, no following commands will be called. 
+
+The interpreter reads the source code of the program as written by the programmer. parses the source code, 
+and interprets the instructions on the fly. A compiler needs to be handed the entrie program in a file. Then it runs 
+a process to translate the hgih-level source code into machine language. 
+These executable machine language programs have the suffic of .exe or .dll
+standing for executable and dynamic link library. 
+
+A syntax error is one that violates the "grammer" rules of python. 
+A logic error is when the prgram has good syntax but a issue in order of execution, like reference to 
+an undeclared value.
+Semantic errors is wehn the description of the steps it takes is syntactically perfect and in the right
+order, but there is a mistake in the program giving an uninteneded output. 
