@@ -30,4 +30,9 @@ A syntax error is one that violates the "grammer" rules of python.
 A logic error is when the prgram has good syntax but a issue in order of execution, like reference to 
 an undeclared value.
 Semantic errors is wehn the description of the steps it takes is syntactically perfect and in the right
-order, but there is a mistake in the program giving an uninteneded output. 
+order, but there is a mistake in the program giving an uninteneded output. 	
+
+PNG stands for protable network graphics.
+
+strings, int and floats are all in python.
+Python follows mathemtical convetion PEMDAS 
