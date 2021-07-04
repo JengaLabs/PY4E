@@ -36,3 +36,6 @@ PNG stands for protable network graphics.
 
 strings, int and floats are all in python.
 Python follows mathemtical convetion PEMDAS 
+
+
+input() function will print it's parameter and wait for user input	
