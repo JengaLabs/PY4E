@@ -1,0 +1,65 @@
+Glossary :
+
+Bug  : Error in program
+
+CPU : Processor that runs code
+
+Compile : translate program from high level language to low level for later execution.
+
+Interactive mode : python interprety that lets you just type code.
+
+Intrepret : excute program in high level language by translating it one line at a time.
+
+Low-level language: a programming language that is designed to be easy for a computer to excute. Machine code
+
+Main memory : stores programs and data. Main memory loses its information when the power is turned off.
+
+Parse : to examine a program and analyze the syntactic strucutre.
+
+Portabilty : a property of a program that can run on more than one kind of computer
+
+Print : pythons debug / write to console
+
+Problem solving : process of formulating a problem / finding a solution.
+
+Program : a set of instructions that a computer follows
+
+Prompt : dispalys message that pauses for the user to input a respsonse
+
+Secondary memory : stroes programs and data and retains its information. Slower than main memory. Disk dirves and usb sticks.
+
+Semantics : rules of a programming langauage
+
+Exercise1 : 1.C 2.Set of instructions for computer to follow. 3.Compiler translates high level code. Intrepreter excutes high level code.
+4. C 5.Semantics 6. C 7.B  
+
+CHAPTER 2 ****************************
+
+GLOSS { 
+Fixed Values are letters and strings that are constants. 
+
+Resered words : identifiers and names reserved for python.
+
+Variable is a named place in memory where a programmer can store data. \
+
+Expressions : In order of precedence, if same row, it's done left to right
+() : Parenthesis 
+** : Power
+* : Multiplication  / : Division   % : remainder/ modulus
++ : addition - : subtraction
+
+concatenate : put together
+
+
+CHAPTER 3 *****************
+
+Conditonal Statments 
+
+Chapter 4 *******
+Iterations 
+
+Break gets out of loop
+continue returns back to start of loop 
+
+Loop Idioms: What we do in loops
+Loops through each data in the collection 
